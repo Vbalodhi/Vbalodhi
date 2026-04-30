@@ -18,7 +18,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vaishnavi-balodhi&label=Profile+Views&color=c77dff&style=flat-square" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/vaishnavi-balodhi">
+  <a href="[https://www.linkedin.com/in/vaishnavi-balodhi](https://www.linkedin.com/in/vaishnavi-balodhi-265828279/)">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-7B2FBE?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -26,7 +27,7 @@
     <img src="https://img.shields.io/badge/Gmail-5C1B8A?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/vaishnavi-balodhi">
+  <a href="https://github.com/vbalodhi">
     <img src="https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=c77dff" />
   </a>
   &nbsp;
