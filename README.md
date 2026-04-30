@@ -18,8 +18,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vaishnavi-balodhi&label=Profile+Views&color=c77dff&style=flat-square" />
   &nbsp;
-  <a href="[https://www.linkedin.com/in/vaishnavi-balodhi](https://www.linkedin.com/in/vaishnavi-balodhi-265828279/)">
-  <a href="">
+  <a href="https://www.linkedin.com/in/vaishnavi-balodhi-265828279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7B2FBE?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
