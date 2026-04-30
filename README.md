@@ -245,13 +245,13 @@ me.domain_expansion()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-balodhi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vbalodhi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-balodhi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbalodhi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-balodhi&theme=midnight-purple&hide_border=true&ring=c77dff&fire=9b59b6&currStreakLabel=c77dff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vbalodhi&theme=midnight-purple&hide_border=true&ring=c77dff&fire=9b59b6&currStreakLabel=c77dff" />
 
 </div>
 
@@ -260,7 +260,7 @@ me.domain_expansion()
 ## 🔥 Cursed Energy Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-balodhi&theme=tokyo-night&hide_border=true&area=true&area_color=7B2FBE&line=c77dff&point=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbalodhi&theme=tokyo-night&hide_border=true&area=true&area_color=7B2FBE&line=c77dff&point=ffffff&bg_color=0d1117" />
 </div>
 
 ---
